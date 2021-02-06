@@ -1,0 +1,13 @@
+.form {
+  width: 320px;
+}
+.label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}
+.barStyles {
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 20px;
+}
